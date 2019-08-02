@@ -47,7 +47,7 @@
   ],
   "dependencies": {
     "quantisnetcore-lib": "git://github.com/wkibbler/quantisnetcore-lib.git",
-    "quantisnetd-rpc": "git://github.com/wkibbler/quantisnetcored-rpc.git",
+    "quantisnetd-rpc": "git://github.com/wkibbler/quantisnetd-rpc.git",
     "async": "^2.6.2",
     "body-parser": "^1.19.0",
     "colors": "^1.3.3",
