@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var quantisnetcore = require('../lib/cli/quantisnetcore');
+quantisnetcore();
