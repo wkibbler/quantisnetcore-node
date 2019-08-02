@@ -4,10 +4,10 @@
   "author": "BitPay <dev@bitpay.com>",
   "version": "5.1.4",
   "main": "./index.js",
-  "repository": "git://github.com/quantisnetevo/quantisnetcore-node.git",
-  "homepage": "https://github.com/quantisnetevo/quantisnetcore-node",
+  "repository": "git://github.com/wkibbler/quantisnetcore-node.git",
+  "homepage": "https://github.com/wkibbler/quantisnetcore-node",
   "bugs": {
-    "url": "https://github.com/quantisnetevo/quantisnetcore-node/issues"
+    "url": "https://github.com/wkibbler/quantisnetcore-node/issues"
   },
   "contributors": [
     {
