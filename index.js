@@ -24,4 +24,4 @@ module.exports.cli.daemon = require('./lib/cli/daemon');
 module.exports.cli.quantisnetcore = require('./lib/cli/quantisnetcore');
 module.exports.cli.quantisnetcored = require('./lib/cli/quantisnetcored');
 
-module.exports.lib = require('@quantisnetevo/quantisnetcore-lib');
+module.exports.lib = require('quantisnetcore-lib');
